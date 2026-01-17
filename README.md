@@ -13,7 +13,7 @@ An interactive Excel dashboard analyzing e-commerce sales and delivery performan
 ## 📈 Dashboard Features
 
 - **Interactive slicers for:**
-  - Region
+  - Regions 
   - Payment Method
   - Delivery Status
 
